@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "funcoes-de-matrizes.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "funcoesdematrizes.h": "c",
+        "constantes.h": "c"
+    }
+}
